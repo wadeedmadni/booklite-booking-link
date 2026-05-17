@@ -111,27 +111,7 @@ BookLite is built for that middle ground: more professional than WhatsApp-only b
 
 ## Product flow
 
-```txt
-Customer
-  ↓
-Public booking link
-  ↓
-Service + date + time selection
-  ↓
-Duration-aware availability check
-  ↓
-Booking request saved
-  ↓
-Owner email OTP login
-  ↓
-Protected owner dashboard
-  ↓
-Confirm, decline, or follow up
-```
-
-The customer does not need an account. The business owner logs in securely using an approved email and one-time code.
-
----
+![BookLite product flow diagram](screenshots/product-flow.png)
 
 ## Key features
 
